@@ -2,19 +2,19 @@
 
 /* ─── Light theme (default / :root) ─── */
 :root {
-  --np-bg: #f0eeff;
+  --np-bg: #f4f4f7;
   --np-surface: #ffffff;
-  --np-surface-2: #ede8ff;
-  --np-border: #d5ccf5;
-  --np-purple: #7c5cbf;
-  --np-purple-light: #5a3fa0;
-  --np-purple-dim: rgba(124,92,191,0.12);
-  --np-text: #1a1240;
-  --np-text-muted: #6b5a9a;
-  --np-text-dim: #9b8ac0;
-  --np-row-hover: #ece7ff;
-  --np-header-bg: linear-gradient(135deg, #faf8ff 0%, #ede8ff 60%, #f5f2ff 100%);
-  --np-header-glow: rgba(124,92,191,0.10);
+  --np-surface-2: #f0f0f4;
+  --np-border: #e3e3ea;
+  --np-purple: #6c47d4;
+  --np-purple-light: #5a35b8;
+  --np-purple-dim: rgba(108,71,212,0.08);
+  --np-text: #0d0d14;
+  --np-text-muted: #6b6b80;
+  --np-text-dim: #a0a0b0;
+  --np-row-hover: #f7f6ff;
+  --np-header-bg: #ffffff;
+  --np-header-glow: rgba(108,71,212,0.12);
   --np-select-bg: #ffffff;
 
   /* Score badges */
@@ -23,13 +23,13 @@
   --np-score-lo-bg: #fef2f2; --np-score-lo-text: #dc2626; --np-score-lo-ring: #fca5a5;
 
   /* Status badges */
-  --np-s0-bg: #f0eeff; --np-s0-text: #6b5a9a; --np-s0-ring: #d5ccf5;
+  --np-s0-bg: #f4f4f7; --np-s0-text: #6b6b80; --np-s0-ring: #e3e3ea;
   --np-s1-bg: #eff6ff; --np-s1-text: #1d4ed8; --np-s1-ring: #bfdbfe;
   --np-s2-bg: #fffbeb; --np-s2-text: #b45309; --np-s2-ring: #fde68a;
   --np-s3-bg: #f0fdf4; --np-s3-text: #15803d; --np-s3-ring: #bbf7d0;
 
   /* Bulb */
-  --np-wire: #b0a0d8;
+  --np-wire: #c0b8d8;
   --np-bulb-glow: rgba(251,191,36,0.45);
 }
 
